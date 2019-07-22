@@ -14,3 +14,7 @@ example 3
 ex 4
 
 ## How to Contribute
+
+### Copyright
+
+git.training
