@@ -15,6 +15,7 @@ ex 4
 
 ## How to Contribute
 
+Please check
 ### Copyright
 
 git.training
