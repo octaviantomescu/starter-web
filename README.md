@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-Example sadasd. Adding a new line, then more changes from myfeature branch too.
+Example sadasd. Updating after stash
 
 ## Introduction
 
