@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-Example sadasd
+Example sadasd. Adding a new line.
 
 ## Introduction
 
