@@ -18,4 +18,4 @@ ex 4
 Please check
 ### Copyright
 
-git.training
+git.training. All rights reserved
